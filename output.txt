@@ -1,0 +1,9 @@
+number of rows: 5
+number of words: 44
+number of uniq words: 37
+length avarage of sentance: 8.8
+max lenght of line: 19
+most popular word in text: is
+longest sentance without 'k': 'i really love three colors we have reached page 18 till now but my goal is to reach page two hundred and forty three '
+colors in the text: 
+grey: 1 times.

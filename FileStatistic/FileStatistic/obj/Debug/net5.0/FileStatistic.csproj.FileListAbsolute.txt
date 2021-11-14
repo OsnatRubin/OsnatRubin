@@ -1,0 +1,16 @@
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\bin\Debug\net5.0\FileStatistic.exe
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\bin\Debug\net5.0\FileStatistic.deps.json
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\bin\Debug\net5.0\FileStatistic.runtimeconfig.json
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\bin\Debug\net5.0\FileStatistic.runtimeconfig.dev.json
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\bin\Debug\net5.0\FileStatistic.dll
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\bin\Debug\net5.0\ref\FileStatistic.dll
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\bin\Debug\net5.0\FileStatistic.pdb
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\obj\Debug\net5.0\FileStatistic.csproj.AssemblyReference.cache
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\obj\Debug\net5.0\FileStatistic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\obj\Debug\net5.0\FileStatistic.AssemblyInfoInputs.cache
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\obj\Debug\net5.0\FileStatistic.AssemblyInfo.cs
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\obj\Debug\net5.0\FileStatistic.csproj.CoreCompileInputs.cache
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\obj\Debug\net5.0\FileStatistic.dll
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\obj\Debug\net5.0\ref\FileStatistic.dll
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\obj\Debug\net5.0\FileStatistic.pdb
+C:\Users\osnat\OneDrive\Desktop\Hadasim\FileStatistic\FileStatistic\obj\Debug\net5.0\FileStatistic.genruntimeconfig.cache
